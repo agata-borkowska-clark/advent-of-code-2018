@@ -17,6 +17,6 @@ int main() {
       current_frequency -= abs_value_as_int;
     }
   }
-   std::cout << current_frequency << '\n';
-   return 0;
+  std::cout << current_frequency << '\n';
+  return 0;
 }
